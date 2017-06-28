@@ -1,3 +1,1 @@
-# Queen-of-the-Code-World
-Welcome
-These are some machine learning projects.
+This is the BNP Paribas Cardif project.
