@@ -1,1 +1,1 @@
-This is the BNP Paribas Cardif project.
+This is the BNP Paribas Cardif claims classification project.
